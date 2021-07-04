@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arquiparedes, my name is Arquimedes, I am from Panama
+- 👀 I’m interested in web and movil apps, data science and machine learning
+- 🌱 I’m currently learning Javascript
