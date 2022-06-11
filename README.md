@@ -1,7 +1,7 @@
-- 👋 Hi, I’m [@arquiparedes](https://twitter.com/arquiparedes), my name is Arquimedes, I am from Panama
+- 👋 Hi, I’m [@arquiparedes](https://twitter.com/arquiparedes), my name is Arquimedes, I am from Panama	🇵🇦
 - 👀 I’m interested in 
   - web and movil apps
   - data science
   - machine learning
-- 💻 I like to program in *JavaScrip*, *React* and *Python*
+- 💻 I like to program with *react.js* *node.js and *python*
 - ✒️ Linkedin - [Arquimedes Paredes](https://www.linkedin.com/in/arquiparedes/)
