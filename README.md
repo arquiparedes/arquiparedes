@@ -3,5 +3,5 @@
   - web and movil apps
   - data science
   - machine learning
-- 💻 I like to program with *react.js* *node.js and *python*
+- 💻 I like to program with *react.js* *node.js* and *python*
 - ✒️ Linkedin - [Arquimedes Paredes](https://www.linkedin.com/in/arquiparedes/)
